@@ -1,6 +1,6 @@
 # Air Traffic Control System
 
-In this lab you will implement a simplified air traffic control (ATC) sistem which allow user to add airplains and controll them.
+ Implemented a simplified air traffic control (ATC) system which allow user to add airplanes and control them.
 
 ## Use Case Diagram
 ![Exercise 1 image](docs/UseCaseDiagram1.jpg)
